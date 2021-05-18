@@ -1,6 +1,5 @@
 # Marketing-Strategy-Recommender
 
-KPMG virtual internship tasks:
 
 • Extracted the data from databases using SQL and performed the cleaning and wrangling on the data of Sprocket Central Pty Ltd. in
 order to balance the data quality which had 360000 observations.
