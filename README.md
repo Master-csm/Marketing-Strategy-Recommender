@@ -1,6 +1,13 @@
 # Marketing-Strategy-Recommender
 
 
+
+# Usage of Recommender systems:
+
+For this project we used collaborative recommender system where, based on the previous customer demographics data the overall buying patterns were obtained.
+
+
+# The whole process
 • Extracted the data from databases using SQL and performed the cleaning and wrangling on the data of Sprocket Central Pty Ltd. in
 order to balance the data quality which had 360000 observations.
 
