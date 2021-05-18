@@ -2,8 +2,15 @@
 
 KPMG virtual internship tasks:
 
-1) Data Quality Assessment which included the data cleaning and filtering in order to balance the data quality and which helped me quantify the yield of the transactions 360000 observations.
-2) Data Insights consisted of finding patterns in the dataset and accuracy, consistency of customer demographics data, and resolved data quality issues for a client using Excel and Python libraries like pandas, numpy and matplotlib
-3) Presentation which included visualizing all the insights using Tableau in the form of Dashboards.
-
+• Extracted the data from databases using SQL and performed the cleaning and wrangling on the data of Sprocket Central Pty Ltd. in
+order to balance the data quality which had 360000 observations.
+• Built a recommender which gave insights that the target audience for the company were female customers with 50.6 % purchasing
+25,210 bikes per year along with visualizations using tableau.
+• Created various reports like Master/Detail reports, Cross Tab reports, slice and dice reports, and drill down reports, Charts using
+SQL and Stored Procedure as data providers.
+• Data Insights consisted of finding patterns in the dataset and accuracy, consistency of customer demographics data, and resolved data
+quality issues for a client using Excel and Python libraries.
+• The data visualization of all the insights was done using Tableau in the form of Dashboards.
+• Employed Data Analysis, Microsoft SQL server studio, Tableau 10.0
+CLEMSON UNIVERSITY | GRADUATE TEACHING ASSISTANT - (AUGUST
 
